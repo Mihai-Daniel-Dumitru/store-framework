@@ -21,6 +21,12 @@
     ]
   },
 
+  "product-images": {
+    "props": {
+      "displayThumbnailsArrows": true
+    }
+  },
+
   "flex-layout.col#right": {
     "props":{
       "preventVerticalStretch": true,
@@ -40,5 +46,4 @@
       "showListPrice": true
     }
   }
-
 }
