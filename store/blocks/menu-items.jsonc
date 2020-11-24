@@ -1,7 +1,7 @@
 {
   "menu-item#major-appliances": {
       "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 10,
